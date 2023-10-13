@@ -1,5 +1,5 @@
 # JS_backend
 
-* Apredendo Node.js :D
+* Apredendo `Node.js` :D
 
 > Projeto ainda em andamento
